@@ -1,4 +1,4 @@
-//foreach 
+//forEach: Executes a function for each array element but doesn’t return a new array.
 
 //example 1
 

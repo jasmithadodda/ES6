@@ -1,4 +1,4 @@
-//filter
+//filter: Returns a new array with only the elements that pass a condition.
 
 //example 1
 //filter the products

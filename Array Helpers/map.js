@@ -1,4 +1,4 @@
-//map
+//map: Transforms each element and returns a new array.
 //instead of mutating an array ,we are producing a new array
 
 //example 1
