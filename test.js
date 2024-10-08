@@ -1,3 +1,4 @@
+//ctrl+shift+p
 const numbers = [1, 2, 3, 4, 5];
 
 //forEach
@@ -7,7 +8,7 @@ numbers.forEach((number) => console.log(number * 2));
 console.log(numbers.map((number) => number * 2));
 
 //reduce
-console.log(numbers.reduce((sum, number) => sum + number, 0));
+console.log(numbers.reduce((sum, number) => sum + number,0));
 
 //find
 console.log(numbers.find((number) => number > 3));

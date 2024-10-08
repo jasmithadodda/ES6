@@ -4,15 +4,16 @@
 //redeclare 
 //reassign
 //initialized as undefined
-
+var x = 10;
 function varExample() {
-    var x = 10;
+    
     if (true) {
       var x = 20; // Same variable, function-scoped
       console.log(x); // 20
     }
     console.log(x); // 20 (still the same variable)
   }
+  console.log(x)
   varExample();
 
 
